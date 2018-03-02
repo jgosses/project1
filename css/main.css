@@ -6,6 +6,16 @@ div {
     width: 400px;
   }
 
+.box1 {
+    position: relative;
+}
+
+.box2 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+}
+
 
 h1 {
     color: green;
