@@ -9,6 +9,12 @@ div {
 
 h1 {
     color: green;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+h1, h2, strong {
+    color: #333;
 }
 
 #intro {
@@ -31,4 +37,5 @@ html {
     padding: 4em 1em;
     margin: 0 auto;
     max-width: 50em;
+    color: #555;
   }
